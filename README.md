@@ -1,2 +1,8 @@
 # TIPs
-The Taiyi Improvement Proposal repository
+TIPs 是太乙改进提案集（Taiyi Improvement Proposals）。
+
+TIP项目的目的，是为太乙协议本身和构建在它上面的规则协定，提供一套高质量的规范文档。本项目库以太乙改进提案（TIPs）的形式，跟踪已经完成和正在进行中的工作方案。本项目库包含的一系列文档，阐明了太乙协议兼容的合约或者应用，“必须”、“应该”和“可能”实现的 _规范_ 和 _概念_ 。
+
+- [TIP-1: TIP目的和准则](tip-1.md)
+- [TIP-2: TIP编辑们的手册](tip-2.md)
+
