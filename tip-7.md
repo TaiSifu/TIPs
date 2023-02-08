@@ -21,6 +21,9 @@ created: 2023-02-08
 
 ## 参考实现
 
+## 讨论
+1. 五大NFT（https://mirror.xyz/taiyidao.eth/3bCoHzrUWM8IuYCWUFC5oXYev_QhfoR8ablZ_9GJgc4）
+
 ## 版权许可
 
 依照[CC0](../LICENSE.md)规范放弃。

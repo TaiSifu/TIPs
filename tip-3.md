@@ -8,7 +8,7 @@ status: Draft
 type: Standards Track
 category: Core
 created: 2023-02-07
-requires: 4, 5
+requires: 4
 ---
 
 ### 地址
