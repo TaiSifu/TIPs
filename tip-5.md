@@ -8,7 +8,7 @@ status: Draft
 type: Standards Track
 category: Core
 created: 2023-02-07
-requires: 3
+requires: 30
 ---
 
 ## 摘要
@@ -21,9 +21,9 @@ requires: 3
 
 ## 规范说明
 
-- `太乙角色合约`（[TIP-3](./tip-3.md)）铸造的第一个角色，角色通证序号为1。
+- `太乙角色合约`（[TIP-30](./tip-30.md)）铸造的第一个角色，角色通证序号为1。
 - 这个角色称为“盘古（PanGu）”。
-- 当太乙岛[TIP-8](./tip-8.md)开始正常运作后，盘古的所有权会被转移给太乙岛相关合约，由太乙岛去中心化地授权盘古进行设计世界的工作。
+- 当太乙岛（[TIP-8](./tip-8.md)）开始正常运作后，盘古的所有权会被转移给太乙岛相关合约，由太乙岛去中心化地授权盘古进行设计世界的工作。
 
 ## 讨论
 1. 三层组织（https://mirror.xyz/taiyidao.eth/_9FmWhAGInFIKolDJvzVCiJ8GqR3YZemkPXPJDKOYL0）

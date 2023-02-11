@@ -108,5 +108,4 @@ TIP应该按照[Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-
 当对TIP以`TRC`（太乙征求意见）的类型被引用时，必须写成`TRC-X`这种形式，其中`X`表示TIP被赋予的序号。当TIP被作为其他类型引用时，必须写成`TIP-X`这种形式，其中`X`表示TIP被赋予的序号。
 
 ## 版权许可
-
 依照[CC0](../LICENSE.md)规范放弃。
