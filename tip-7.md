@@ -129,7 +129,7 @@ event NonfungibleApprovalForAll(uint256 indexed owner, uint256 indexed operator,
 
 
 ## 基本原理
-- 非同质化通证的原理参考[ERC721](https://eips.ethereum.org/EIPS/eip-721)
+- 非同质化通证的原理参考[ERC721](https://eips.ethereum.org/EIPS/eip-721)。
 - 具备铸造太乙非同质化通证权限和销毁通证权限的操作者，通常是“噎明”（[TIP4](./tip-4.md)）角色。
 - 根据太乙角色的隐式托管（参考[TIP30](./tip-30.md)），铸造通证、角色和角色之间转移，这些操作执行最终仍然是按照ERC721在角色Holder地址之间进行的。
 

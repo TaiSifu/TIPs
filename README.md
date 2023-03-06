@@ -1,3 +1,8 @@
+[![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/TaiSifu/TIPs?style=flat-square)](https://hub.docker.com/r/TaiSifu/TIPs/tags)
+[![GitHub license](https://img.shields.io/github/license/TaiSifu/TIPs?style=flat-square)](https://github.com/TaiSifu/TIPs/blob/main/LICENSE)
+[![GitHub contributors](https://img.shields.io/github/contributors-anon/TaiSifu/TIPs?style=flat-square)](https://github.com/TaiSifu/TIPs/graphs/contributors)
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/y/TaiSifu/TIPs?style=flat-square)](https://github.com/TaiSifu/TIPs/commits/main)
+
 # TIPs
 TIPs 是太乙改进建议集（Taiyi Improvement Proposals）。
 
