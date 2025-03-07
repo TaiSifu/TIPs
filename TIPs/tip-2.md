@@ -36,10 +36,10 @@ requires: 1
 若现有TIP编辑批准申请，申请人即成为正式TIP编辑。此举将通知编辑关注TIP仓库中新提交的提案，编辑将负责审核并合并PR：
 
 ```diff
-diff --git a/TIPS/tip-1.md b/TIPS/tip-1.md
+diff --git a/TIPs/tip-1.md b/TIPs/tip-1.md
 index 79558a3..079b196 100644
---- a/TIPS/tip-1.md
-+++ b/TIPS/tip-1.md
+--- a/TIPs/tip-1.md
++++ b/TIPs/tip-1.md
 @@ -207,6 +211,7 @@ 当前TIPs的编辑
  - 红中🀄️ (@hongzhongx)
 +- 北风 (@beifeng)
