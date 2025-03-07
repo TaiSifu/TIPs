@@ -118,4 +118,4 @@ requires: <TIP number(s)> # 只在`规范说明`一节引用到另外TIP时需�
 
 ## 版权许可
 
-依照[CC0](../LICENSE.md)规范放弃。
+依据[CC0](../LICENSE)协议放弃所有版权及相关权利。
