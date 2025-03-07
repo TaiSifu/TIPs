@@ -314,6 +314,7 @@ TIP可能有一个 `requires` 头，表示该TIP所依赖的TIP编号。如果�
 当前TIPs的编辑：
 
 - 红中 (@hongzongx)
+- CyberParticle (@CyberPoincare)
 
 已隐退的TIPs编辑：
 
