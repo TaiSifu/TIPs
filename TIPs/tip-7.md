@@ -7,6 +7,7 @@ status: Draft
 type: Standards Track
 category: Interface
 created: 2026-01-28
+requires: 5
 ---
 
 ## 摘要
