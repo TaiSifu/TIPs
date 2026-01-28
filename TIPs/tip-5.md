@@ -3,7 +3,7 @@ tip: 5
 title: SGS 合约 Lua 虚拟机上下文规范
 description: 详细界定 Taiyi 网络中 SGS 合约所暴露的全局变量、数据结构及 API 函数接口规范。
 author: 红中🀄️ (@hongzhongx)
-discussions-to: https://github.com/hongzhongx/TIPs/discussions/5
+discussions-to: https://github.com/hongzhongx/TIPs/discussions/6
 status: Draft
 type: Standards Track
 category: TRC
